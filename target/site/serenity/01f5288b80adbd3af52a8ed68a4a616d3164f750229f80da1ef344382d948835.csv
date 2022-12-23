@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","User login with null email and password","SUCCESS","2022-12-22T14:39:20.0820123+07:00[Asia/Bangkok]","0.0","37.49"
+"Login","User login with valid email and null password","SUCCESS","2022-12-22T14:39:57.607969+07:00[Asia/Bangkok]","0.0","39.1"
+"Login","User login with null email and valid password","SUCCESS","2022-12-22T14:40:36.7277935+07:00[Asia/Bangkok]","0.0","38.02"
